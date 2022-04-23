@@ -25,5 +25,5 @@ console.log(output3);
 
 
 
-// const output4 = numbers.find(x => x > 3);find method returns actual value
+ const output4 = numbers.find(x => x > 3);//find method returns actual value
 console.log(output4);
