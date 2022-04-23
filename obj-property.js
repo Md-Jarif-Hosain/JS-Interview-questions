@@ -11,7 +11,7 @@ for (let i = 0; i < students.length; i++) {
     const elmName = element.name;
     names1.push(elmName);
 };
-console.log(names1);//traditional way
+console.log(names1);//traditional way to get a property value of obj
 
 
 const names2 = students.map(n => n.name); //output with Array map method
