@@ -1,5 +1,5 @@
 const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-const part = nums.slice(2, 5); // index number of strating and ending point
+const part = nums.slice(2, 5); // index number of starting and ending point
 console.log(part);
 console.log(nums);
 
